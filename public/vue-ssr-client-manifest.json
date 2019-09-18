@@ -1,0 +1,83 @@
+{
+  "publicPath": "/public/",
+  "all": [
+    "app.75013552.js",
+    "index.html",
+    "resources/client/assets/images/bg.919557e6.jpg",
+    "runtime~app.68ae00f8.js",
+    "runtime~vendor.3e6042ee.js",
+    "styles.75013552.css",
+    "vendor.33824d0a.js",
+    "vendors~app.372e42f3.js",
+    "vendors~app~vendor.681c7fe9.js"
+  ],
+  "initial": [
+    "runtime~vendor.3e6042ee.js",
+    "vendors~app~vendor.681c7fe9.js",
+    "vendor.33824d0a.js",
+    "runtime~app.68ae00f8.js",
+    "vendors~app.372e42f3.js",
+    "app.75013552.js",
+    "styles.75013552.css"
+  ],
+  "async": [],
+  "modules": {
+    "0695cbdc": [
+      7
+    ],
+    "7a79e61c": [
+      7
+    ],
+    "8c4dc040": [
+      8
+    ],
+    "7a8d0ca6": [
+      8
+    ],
+    "83d43814": [
+      7
+    ],
+    "d6294142": [
+      8
+    ],
+    "3287677e": [
+      7
+    ],
+    "24ff30db": [
+      7
+    ],
+    "6657d51c": [
+      0,
+      5
+    ],
+    "34a45404": [
+      0,
+      5
+    ],
+    "4e6695ef": [
+      0,
+      5
+    ],
+    "5a7c2134": [
+      0,
+      5
+    ],
+    "2313bd9e": [
+      8
+    ],
+    "58d9f832": [
+      8
+    ],
+    "b1b1f9cc": [
+      0,
+      5
+    ],
+    "77b75303": [
+      6
+    ],
+    "24c85a5e": [
+      0,
+      5
+    ]
+  }
+}
